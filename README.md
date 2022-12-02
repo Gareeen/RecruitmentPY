@@ -1,3 +1,2 @@
 # Polixis-Recruitment
-## Java is better than Python
-##Java for life <3
+## Java is better than Python <3
